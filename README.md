@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi There 👋
 I'm Ido, an Israeli queer game developer and designer. 
 Most of my experience is developing video games with Unity engine, but I do like an occasional change of pace trying out some other engine at a gamejam or hobby project.
 When not confined by Unity's C#, Python is my favorite and my go to language of choice.
