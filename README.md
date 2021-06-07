@@ -20,7 +20,7 @@ Most of my experience is developing video games with Unity engine, but I do like
 When not confined by Unity's C#, Python is my favorite and my go to language of choice.
 
 - :octocat: Some of my github projects are available at: [github pages](https://idoadler.github.io)
-- 🎮 I'm currently woring on the game: [Phantom Beasts](https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/?utm_source=ido)
+- 🎮 I'm currently working on the game: [Phantom Beasts](https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/?utm_source=ido)
 - 🎲 My experiments can be found on: [itch.io](https://idoadler.itch.io/)
 - ✍️ I write stuff at: [ido.wtf](https://ido.wtf/)
 - ☕ I'm available at: [facebook](https://www.facebook.com/idoadler/)
