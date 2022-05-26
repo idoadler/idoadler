@@ -25,6 +25,6 @@ When not confined by Unity's C#, Python is my favorite and my go to language of 
 - ✍️ I write stuff at: [ido.wtf](https://ido.wtf/)
 - ☕ I'm available at: [facebook](https://www.facebook.com/idoadler/)
 - ✉️ Otherwise I can also ba accessed via: [email](mailto:github_profile@lahamonim.com?subject=[GitHub]%20Hi%20there!) 
-- 🖱️ If you are an employee check out my: [linkedin](https://www.linkedin.com/in/idoadler/)
+- 🖱️ If you are an employer check out my: [linkedin](https://www.linkedin.com/in/idoadler/)
 
 If anything sparked your interest please say hi, I would love to chat with you.
