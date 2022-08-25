@@ -5,12 +5,11 @@
 -->
 
 I am a Sr. Game Developer with ~20 years of coding. 
-Mostly I develop video games with Unity, but I do love to play with Godot, python, javascript or other options when they fit.
+Mostly I develop video games with Unity, but I do love to play with Godot, Python, JavaScript or other options when they fit.
 I enjoy a good game design challange, and I'm particullary interested in making personal games about queer or local subjects.
 
 
-If anything sparked your interest please say hi, I would love to chat with you.
-Reach me on social media:
+If anything sparked your interest please say hi, I'm available here:
 
 [![Gmail Badge](https://img.shields.io/badge/-contact@lahamonim.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:github_profile@lahamonim.com?subject=[GitHub]%20Hi%20there!)](mailto:github_profile@lahamonim.com?subject=[GitHub]%20Hi%20there!) 
 [![Linkedin Badge](https://img.shields.io/badge/-Ido%20Adler-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idoadler/)](https://www.linkedin.com/in/idoadler/)
@@ -24,7 +23,7 @@ Reach me on social media:
  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white)
 
  ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white)
- ![Godot](https://img.shields.io/badge/Godot-v3.4-%23478cbf?logo=godot-engine&logoColor=white)
+ ![Godot](https://img.shields.io/badge/Godot-v3.5-%23478cbf?logo=godot-engine&logoColor=white)
  ![Asperite](https://img.shields.io/badge/Aseprite-white?logo=Aseprite&logoColor=#7D929)
 
  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
