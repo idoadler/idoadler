@@ -5,8 +5,8 @@
 -->
 
 I am a Sr. Game Developer with ~20 years of coding. 
-Mostly I develop video games with Unity, but I do love to play with Godot, Python, JavaScript or other options when they fit.
-I enjoy a good game design challange, and I'm particullary interested in making personal games about queer or local subjects.
+Mostly I develop video games with Godot and Unity, but I do love to play with Python and JavaScript too.
+I enjoy a good game design challenge, and I'm particularly interested in making personal games about queer or local subjects.
 
 
 If anything sparked your interest please say hi, I'm available here:
@@ -31,7 +31,7 @@ If anything sparked your interest please say hi, I'm available here:
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## Things I do
-- [![Phantom Beasts](https://img.shields.io/badge/Phantom%20Beasts-000000?logo=steam&logoColor=white&link=https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/?utm_source=ido)](https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/?utm_source=ido) - my current (in progress) game
+- [![Bibi Run](http://bibirun.ido.wtf/) - a political game about the state of israel 2023
 - [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&link=https://idoadler.itch.io)](https://idoadler.itch.io) - tiny experiments
 - [![ido.wtf](https://img.shields.io/badge/ido.wtf-21759B?logo=wordpress&logoColor=white&link=https://ido.wtf/)](https://ido.wtf/) - my blog
 - [![Github Pages](https://img.shields.io/badge/Github%20Pages-100000?logo=github&logoColor=white&link=https://idoadler.github.io)](https://idoadler.github.io) - open source projects
