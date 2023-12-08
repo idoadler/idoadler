@@ -21,24 +21,22 @@ If anything sparked your interest please say hi, I'm available here:
  ![Rider](https://img.shields.io/badge/Rider-000000?logo=Rider&logoColor=white)
  ![C#](https://img.shields.io/badge/-C%23-white?color=5C2D91&logo=csharp&logoColor=white) 
  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
  ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white)
- ![Godot](https://img.shields.io/badge/Godot-v3.5-%23478cbf?logo=godot-engine&logoColor=white)
+ ![Godot3](https://img.shields.io/badge/Godot-v3.5-%23478cbf?logo=godot-engine&logoColor=white)
+ ![Godot4](https://img.shields.io/badge/Godot-v4.2-%23478cbf?logo=godot-engine&logoColor=white)
  ![Asperite](https://img.shields.io/badge/Aseprite-white?logo=Aseprite&logoColor=#7D929)
 
  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+ ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
 
 ## Things I do
+- [![Sunbird Studio](https://img.shields.io/badge/Sunbird_Studio-purple)](https://sunbirdstudio.itch.io/) - our small indie games studio
 - [![Bibi Run](https://img.shields.io/badge/Bibi_Run-blue)](https://bibirun.ido.wtf/) - a political game about the state of Israel 2023
 - [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&link=https://idoadler.itch.io)](https://idoadler.itch.io) - tiny experiments
 - [![ido.wtf](https://img.shields.io/badge/ido.wtf-21759B?logo=wordpress&logoColor=white&link=https://ido.wtf/)](https://ido.wtf/) - my blog
-- [![Github Pages](https://img.shields.io/badge/Github%20Pages-100000?logo=github&logoColor=white&link=https://idoadler.github.io)](https://idoadler.github.io) - open source projects
 
-
-### Stats
-[![idoadler's github stats](https://github-readme-stats.vercel.app/api?username=idoadler&theme=dark&show_icons=true)](https://github.com/idoadler)
-
-[![idoadler's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idoadler&theme=blue-green)](https://github.com/idoadler)
 
