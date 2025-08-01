@@ -18,7 +18,7 @@ If anything sparked your interest please say hi, I'm available here:
 
 ## Tools I use
  ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white)
- ![Godot4](https://img.shields.io/badge/Godot-v4.3-%23478cbf?logo=godot-engine&logoColor=white)
+ ![Godot4](https://img.shields.io/badge/Godot-v4.5-%23478cbf?logo=godot-engine&logoColor=white)
  ![Asperite](https://img.shields.io/badge/Aseprite-white?logo=Aseprite&logoColor=#7D929)
  ![Krita](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=white)
  ![Procreate](https://img.shields.io/badge/Procreate-232323?logo=Apple&logoColor=#c24ad7)
