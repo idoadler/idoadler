@@ -36,7 +36,7 @@ If anything sparked your interest please say hi, I'm available here:
 
 ## Things I do
 - [![Sunbird Studio](https://img.shields.io/badge/Sunbird_Studio-purple)](https://sunbirdstudio.itch.io/) - our small indie games studio
-- [![Prickle](https://img.shields.io/badge/Prickle-white?logo=Steam&logoColor=black)](https://store.steampowered.com/app/2759760?utm_source=github) - a wholsome sokoban-style puzzle game about hedghogs
+- [![Prickle](https://img.shields.io/badge/Prickle🦔-white)](https://prickle.ido.wtf?utm_source=github) - a wholsome sokoban-style puzzle game about hedghogs
 - [![Bibi Run](https://img.shields.io/badge/Bibi_Run-blue)](https://bibirun.ido.wtf/) - a political game about the state of Israel 2023
 - [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&link=https://idoadler.itch.io)](https://idoadler.itch.io) - tiny experiments
 - [![ido.wtf](https://img.shields.io/badge/ido.wtf-21759B?logo=wordpress&logoColor=white&link=https://ido.wtf/)](https://ido.wtf/) - my blog
